@@ -8,11 +8,13 @@
 
 # MISC
 itemGroup.botania=Botania
+botania.desc=Description de Botania ici.
+
 generator.botania-skyblock=Jardin de verre
 generator.botania-skyblock.info=Non recommandé pour les débutants de botania
 
 botaniamisc.nextPage=Page suivante
-botaniamisc.prevPage=Page précédante
+botaniamisc.prevPage=Page précédente
 botaniamisc.back=Retour
 botaniamisc.craftingContainer=Retour à la fabrication
 botaniamisc.shapeless=Recette sans forme
@@ -24,8 +26,8 @@ botaniamisc.shiftToRead=Maj-cliquez droit pour lire plus
 botaniamisc.clickToRecipe=Maj-cliquez pour voir la recette
 botaniamisc.clickToIndex=Maj-cliquez pour l'index
 botaniamisc.flareColor=%s tours
-botaniamisc.outputtingPower=Partage le mana aux éléments
-botaniamisc.inputtingPower=Accepte du mana des éléments
+botaniamisc.outputtingPower=Partage le mana aux objets
+botaniamisc.inputtingPower=Accepte du mana des objets
 botaniamisc.creative=Créatif
 botaniamisc.invFull=Votre inventaire est plein.
 botaniamisc.compositeLens=Composé avec %s
@@ -44,7 +46,7 @@ botaniamisc.lexiconcover2=De l'auteur à succès
 botaniamisc.lexiconcover3=Lizbeth "Vazkii" Rika
 botaniamisc.lexiconcover4=Edité par BevoLJ
 botaniamisc.lexiconcover5=Edité par Saice
-botaniamisc.shiftinfo=Appuyez sur &bMaj&7 pour plus d'info
+botaniamisc.shiftinfo=Maintenez &bMaj&7 pour plus d'info
 botaniamisc.knowledgeTypesSingular=Contient %s savoir scolaire
 botaniamisc.knowledgeTypesPlural=Contient %s savoirs scolaires
 botaniamisc.bookmark=Marque-page #%s
@@ -74,7 +76,7 @@ botaniamisc.getALife=Prennez une vie
 botaniamisc.floatingPrefix=Fleur flottante %s
 botaniamisc.unsetRecipe=[pas de  rectte] Cliquez-droit pour faire :
 botaniamisc.cantCraft=Pas assez de matériaux !
-botaniamisc.lotusDesc=Ceci émet une forte vibration magique
+botaniamisc.lotusDesc=Ceci émet de fortes vibrations magiques
 botaniamisc.hasClip=&6A une attache de lentille
 botaniamisc.clipEmpty=(Vide)
 botaniamisc.armorset=&bEnsemble d'armure&r:
@@ -1248,6 +1250,24 @@ botania.category.alfhomancy=Elfhomancie
 botania.category.misc=Divers
 
 # LEXICON ENTRIES
+
+# - BASIC
+# -- WELCOME TO BOTANIA
+botania.entry=Bienvenue dans Botania
+botania.tagline.welcome=Bienvenue à l'hôtel Botania
+botania.page.welcome0=&oBienvenue dans Botania ! Féliciation pour ce choix judicieux d'attacher une pousse d'arbre et un libre, ou juste de le trouver dans un coffre. Quoi qu'il en soit.<br>&oVous pouvez parcourir ce livre avec les flèches en bas de page, la molette de la souris ou les touches fléchées du clavier.
+botania.page.welcome1=&oMalgré son apparence, Botania est en soit un "mod technique", c'est-à-dire que vous devrez user d'ingéniosité, de réfléxion et de redstone pour créer et progresser. Souvenez-vous en.<br>&oBien sûr vous serez récompensés avec des super jouets, blocs et équipements, si cela vous inquiète.
+botania.page.welcome2=&oÀ toutes fins pratiques, Botania est un mod pour toute personne qui aime jouer dans le but de créer des trucs cools. Il est conçu pour être jouable avec ou sans autres mods.<br>&oSauf cas particuliers, le mod est entièrement automatisable en utilisant seulement et uniquement Minecraft.
+botania.page.welcome3=&oSi vous ne savez plus quoi faire, vous pouvez jeter un coup d'œil aux succès ou défis du mod, lesquels sont trouvables sur la gauche du la page principale de ce livre.<br>&oCe livre est conçu de façon simple avec un tas de fonctions pratiques, alors avant de se jeter à l'eau, prenez le temps de vous familiariser avec la manière dont les choses fonctionnent.
+botania.page.welcome4=&oAprès cela, vous arriverez sur une page où vous pouvez commencer un tutoriel qui vous enseignera les bases de ce mod en dix minutes, à prendre ou à laisser.<br>&oCependant il ne vous enseignera que les bases. Alors, une fois que vous aurez bien compris ces concepts, vous pourrez faire des recherches approfondies.
+botania.page.welcome5=&oSi vous n'êtes pas sûr de ce que vous voulez apprendre, maintenez Maj en parcourant les diverses catégories pour avoir une petite idée de ce qu'est chaque chose.<br>&oL'index du lexiquei peut être très utilse pour chercher, puisqu'il contient toutes les rubriques rassemblées en un seul endroit.
+botania.page.welcome6=&oCette introduction est maintenant terminée ! Vous pouvez passer au tutoriel maintenant. J'espère que vous apprécierez jouer avec Botania autant que j'ai apprécié le créer !<br>&o~Vazkii, l'auteur du mod<br><br>&oContinuez en cliquant sur le bouton "Retour" ci-dessous. Le clic droit ou la touche Retour arrière aura le même effet.
+
+# -- TUTORIAL OF THE BASICS
+botania.entry.tutorial=Tutoriel des bases
+botania.tagline.tutorial=Soyez prêt rapidement
+botania.page.tutorial0=Alors qu'il est juste possible de parcourir les rubriques à son gré, il y a aussi toutes sortes de tutoriels disponibles. Les boutons ci-dessous vous guideront à travers les concepts de base de Botania.<br>Vous avez le choix entre un guide en jeu, ou une video assez courte.
+# TODO
 
 # -- MYSTICAL FLOWERS
 botania.entry.flowers=Fleur mystique Flowers
