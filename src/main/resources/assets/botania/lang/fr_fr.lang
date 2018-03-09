@@ -1267,7 +1267,19 @@ botania.page.welcome6=&oCette introduction est maintenant terminée ! Vous pouve
 botania.entry.tutorial=Tutoriel des bases
 botania.tagline.tutorial=Soyez prêt rapidement
 botania.page.tutorial0=Alors qu'il est juste possible de parcourir les rubriques à son gré, il y a aussi toutes sortes de tutoriels disponibles. Les boutons ci-dessous vous guideront à travers les concepts de base de Botania.<br>Vous avez le choix entre un guide en jeu, ou une video assez courte.
+
+# -- GARDEN OF GLASS
+botania.entry.gardenOfGlass=Jardin de verre
+botania.tagline.gardenOfGlass=Votre nouveau défi
+botania.page.gardenOfGlass0=Dans le &2jardin de verre&0 personne ne vous entend crier.<br>Vous êtes seul dans l'espace.<br>C'est vraiment excitant !
+botania.page.gardenOfGlass1=Le &2jardin de verre&0 est un mod dans le ciel pour Botania. Il est recommandé d'avoir quelque peu d'expérience, mais même si vous êtes débutant vous pouvez quand-même l'essayer.<br>Une grande partie du mod fonctionne de la même manière, mais il y a quelques ajustements pour permettre de jouer dans le ciel. Ils seront listés dans les pages suivantes.
+botania.page.gardenOfGlass2=Après votre apparition dans le &1jardin de verre&0 vous trouverez des &1racines vivantes&0 sous la zone de départ. Elles peuvent êtres utilisées pour créer des &1pousses d'arbre&0 et du &1fertilisant floral&0. Elles marchent aussi comme de la &1poudre d'os&0. Maj-clic droit sur de la &1terre&0 ou un bloc d'&1herbe&0 avec la main vide vous fera fouiller la terre, pour trouver des &1cailloux&0, qui peuvent être convertis en &1pierre&0. L'&1apotiquaire de pétales&0 peut être rempli avec un &1bol&0 en cliquant sur un bloc d'eau.
+botania.page.gardenOfGlass3=Créer des &1pousses d'arbre&0
+botania.page.gardenOfGlass4=Créer du &1fertilisant floral&0
+botania.page.gardenOfGlass5=Créer de la &1pierre&0
+botania.page.gardenOfGlass6=À part ça, quelques choses dans Botania sont différents pour pouvoir jouer dans le ciel : la &1minerose&0 est la plus facile à faire, plus rapide, et bien moins chère ; le &1cocon de caprice&0 et le &1diffuseur de mana&0 a des recettes différentes ; la &1lampe de flamme&0, qui peut être utilisée pour créer de l'&1obsidienne&0, utilise de la poudre au lieu des bâtons ; les graines de pastèques et de citrouilles peuvent être trouvées dans les hautes herbes ; plus de fertilisant floral est créé par fabrication, et quelques recettes sont ajoutées.
 # TODO
+
 
 # -- MYSTICAL FLOWERS
 botania.entry.flowers=Fleur mystique Flowers
