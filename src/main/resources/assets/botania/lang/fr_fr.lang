@@ -1255,7 +1255,7 @@ botania.category.misc=Divers
 # -- WELCOME TO BOTANIA
 botania.entry=Bienvenue dans Botania
 botania.tagline.welcome=Bienvenue à l'hôtel Botania
-botania.page.welcome0=&oBienvenue dans Botania ! Féliciation pour ce choix judicieux d'attacher une pousse d'arbre et un libre, ou juste de le trouver dans un coffre. Quoi qu'il en soit.<br>&oVous pouvez parcourir ce livre avec les flèches en bas de page, la molette de la souris ou les touches fléchées du clavier.
+botania.page.welcome0=&oBienvenue dans Botania ! Félicitation avoir attaché une pousse d'arbre et un livre, ou juste pour l'avoir trouvé dans un coffre. Quoi qu'il en soit.<br>&oVous pouvez parcourir ce livre avec les flèches en bas de page, la molette de la souris ou les touches fléchées du clavier.
 botania.page.welcome1=&oMalgré son apparence, Botania est en soit un "mod technique", c'est-à-dire que vous devrez user d'ingéniosité, de réfléxion et de redstone pour créer et progresser. Souvenez-vous en.<br>&oBien sûr vous serez récompensés avec des super jouets, blocs et équipements, si cela vous inquiète.
 botania.page.welcome2=&oÀ toutes fins pratiques, Botania est un mod pour toute personne qui aime jouer dans le but de créer des trucs cools. Il est conçu pour être jouable avec ou sans autres mods.<br>&oSauf cas particuliers, le mod est entièrement automatisable en utilisant seulement et uniquement Minecraft.
 botania.page.welcome3=&oSi vous ne savez plus quoi faire, vous pouvez jeter un coup d'œil aux succès ou défis du mod, lesquels sont trouvables sur la gauche du la page principale de ce livre.<br>&oCe livre est conçu de façon simple avec un tas de fonctions pratiques, alors avant de se jeter à l'eau, prenez le temps de vous familiariser avec la manière dont les choses fonctionnent.
@@ -1277,12 +1277,36 @@ botania.page.gardenOfGlass2=Après votre apparition dans le &1jardin de verre&0 
 botania.page.gardenOfGlass3=Créer des &1pousses d'arbre&0
 botania.page.gardenOfGlass4=Créer du &1fertilisant floral&0
 botania.page.gardenOfGlass5=Créer de la &1pierre&0
-botania.page.gardenOfGlass6=À part ça, quelques choses dans Botania sont différents pour pouvoir jouer dans le ciel : la &1minerose&0 est la plus facile à faire, plus rapide, et bien moins chère ; le &1cocon de caprice&0 et le &1diffuseur de mana&0 a des recettes différentes ; la &1lampe de flamme&0, qui peut être utilisée pour créer de l'&1obsidienne&0, utilise de la poudre au lieu des bâtons ; les graines de pastèques et de citrouilles peuvent être trouvées dans les hautes herbes ; plus de fertilisant floral est créé par fabrication, et quelques recettes sont ajoutées.
+botania.page.gardenOfGlass6=À part ça, quelques choses dans Botania sont différents pour pouvoir jouer dans le ciel : l'&1or-chidée&0 est la plus facile à faire, plus rapide, et bien moins chère ; le &1cocon de caprice&0 et le &1diffuseur de mana&0 ont des recettes différentes ; la &1lampe de flamme&0, qui peut être utilisée pour créer de l'&1obsidienne&0, utilise de la poudre au lieu des bâtons ; les graines de pastèques et de citrouilles peuvent être trouvées dans les hautes herbes ; fabriquer du fertilisant floral en crée plus, et quelques recettes sont ajoutées.
 # TODO
 
+# -- LEXICA BOTANIA
+botania.entry.lexicon=Lexica Botania
+botania.tagline.lexicon=Ce que vous êtes en train de lire
+botania.page.lexicon0=Le &1Lexica Botania&0 est le recueil de toutes les connaissances en botanique. Mais vous le saviez probablement déjà.<br>Toutes les informations sont archivées ici. Par commodité, si un bloc a une rubrique, vous pouvez Maj-cliquez droit avec le &1Lexica Botania&0 pour ouvrir sa rubrique.
+botania.page.lexicon3=Toutes les rubriques en &oitalique&r sont des rubriques &4basiques&0, qui contiennent les connaissances les plus élémentaires pour pouvoir jouer à Botania et devraient être vues les premières. La plupart des sections contiennent une ou plusieurs de ces rubriques, c'est une bonne idée de les parcourir.
+botania.page.lexicon1=Fabriquer le &1Lexica Botania&0.
+botania.page.lexicon2=Le titre du &1Lexica Botania&0 peut aussi être personnalisé. En le plaçant sur une &1enclume&0 et le renommant, vous pouvez changer sa couverture mais aussi le titre.<br>L'édition affichée par le livre est la version de &4Botania&0 utilisée, et non, je me fous du quatrième mur.
 
 # -- MYSTICAL FLOWERS
-botania.entry.flowers=Fleur mystique Flowers
+botania.entry.flowers=Fleurs mystiques
+botania.tagline.flowers=Les racines de vos études
+botania.page.flowers0=Dans le monde, vous pouvez trébucher sur une grande variété de fleurs mystiques. Les trouver ne demande pas trop d'efforts puisque ces fleurs émettent un peu de lumière.<br>Il en existe &416 &0 couleurs différentes.<br>Il est aussi possible d'en fait pousser avec du &1fertilisant floral&0 (voir la suite).
+botania.page.flowers1=Des fleurs, aussi loin que l'œil puisse voir...
+botania.page.flowers2=Des &1pétals mystiques&0 peuvent être arrachés de ces fleurs, ils peuvent petre utilisés pour créer des instruments magiques et des plantes semblables.<br>Cliquer droit sur le sol avec un pétal le &4plante&0, il émet alors des particules.<br>Ces pétals peuvent être broyés en &1poudre florale&0, qui fonctionne un peu comme du colorant.
+botania.page.flowers3=Arracher les pétals des fleurs.
+botania.page.flowers4=Fabriquer le &1pilon et mortier&0.
+botania.page.flowers5=Broyer des pétals en poudre.
+botania.page.flowers5.5=Broyer des flowers en poudre.
+botania.page.flowers6=Cliquer droit avec de la &1poudre florale&0 sur de la &1laine&0 ou un &1tapis&0 change sa couleur en celle de la poudre.<br>En mélangeant de la &1poudre florale&0 avec de la &1poudre d'os&0, on peut créer un autre type de fertilisant. Le &1fertilisant floral&0 fait pousser une petite quantité de &1fleurs mystiques&0 aux alentours, si jamais vous n'en avez plus beaucoup.
+botania.page.flowers7=Fabriquer du fertilisant (n'importe quelle couleur marche)
+botania.page.flowers8=Utiliser des substances de fleurs basiques marche aussi
+botania.page.flowers10=Il y a aussi des variantes plus grandes des &1fleurs mystiques&0 dans les environs. Elles peuvent seulement être récoltées avec des &1cisailles&0, mais donnent deux fois plus de pétals. Mais elles sont un peu trop grandes pour faire du colorant.
+botania.page.flowers12=Les grandes fleurs peuvent être créées manuellement en fertilisant des &1fleurs mystiques&0 ou des &1pétals enterrés&0 avec de la &1poudre d'os&0.<br>Si il commence à vous manquer une couleur, essayer de planter des pétals de cette couleur et d'utiliser de la &1poudre d'os&0 dessus.
+botania.page.flowers11=Prépare fort trou bleu
+botania.page.flowers9=On peut transformer des pétals en blocs
+botania.page.flowers13=Ça marche aussi dans l'autre sens
+#TODO
 
 # -- PETAL APOTHECARY
 botania.entry.apothecary=Apotiquaire de pétales
