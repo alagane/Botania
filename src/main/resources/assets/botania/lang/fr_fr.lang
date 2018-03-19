@@ -1306,11 +1306,18 @@ botania.page.flowers12=Les grandes fleurs peuvent être créées manuellement en
 botania.page.flowers11=Prépare fort trou bleu
 botania.page.flowers9=On peut transformer des pétals en blocs
 botania.page.flowers13=Ça marche aussi dans l'autre sens
-#TODO
 
 # -- PETAL APOTHECARY
 botania.entry.apothecary=Apotiquaire de pétales
+botania.tagline.apothecary=Pour créer des fleurs
+botania.page.apothecary0=Afin que les botanistes puissent créer des plantes pour tout faire à leur place, il leur faut un moyen d'infuser les plantes avec de l'énergie mystique.<br>Heureusement, l'&1apotiquaire de pétales&0 est fait pour ça.
+botania.page.apothecary1=L'&1apotiquaire de pétales&0.
+botania.page.apothecary2=Ce bloc, quand il est placé et qu'on le remplit d'eau (en utilisant un &1seau d'eau&0), accepte n'importe quels &1pétals mystiques&0 que l'on lui jette, libérant leur énergie.<br>Une fois qu'on a inséré les bons pétals, il faut jeter des &1graînes de blé&0 pour finaliser le processus.<br>Jeter un seau d'eau remplit l'apotiquaire.
+botania.page.apothecary3=Pas mal de plantes peuvent être créées de cette manière. Voir les rubriques &4flore fonctionnelle&0 et &4flore génératrice&0 du lexique.<br>Maj-cliquer droit l'&1apotiquaire de pétales&0 avec la main vide enlève le dernier objet ajouté.
+botania.page.apothecary4=À la place de l'&1eau&0, on peut mettre de la &1lave&0 dans ce bloc, si c'est le cas, il servira comme brasier et incinérateur, détruisant n'importe quel objet en contact avec.<br>Par ailleurs, y jeter des &1lianes&0 lui donnera un aspect plus luxuriant.
+botania.page.apothecary7=Les &1comparateurs&0 peuvent détecter si le bloc a de l'eau ou pas.<br>Puisque l'&1apotiquaire de pétals&0 peut être rempli en jetant un &1seau d'eau&0, et qu'un &1distributeur&0 peut remplir des seaux, créer un système pour remplir automatiquement l'apotiquaire ne devrait pas être trop difficile.
 
+#TODO
 # -- PURE DAISY
 botania.entry.pureDaisy=Pâquerette pure
 
