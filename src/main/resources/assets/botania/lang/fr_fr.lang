@@ -145,7 +145,7 @@ botania.nei.floatingFlowers=Fleur flottante
 botania.nei.manaPool=Infusion de mana
 botania.nei.petalApothecary=Apothicaire de pétale
 botania.nei.runicAltar=Autel runique
-botania.nei.pureDaisy=Pâquerette pure
+botania.nei.pureDaisy=Marguerite pure
 
 # BUILDCRAFT INTEGRATION
 botania.triggers.manaDetector=Explosion de mana
@@ -409,7 +409,7 @@ botania.challenge.flowerFarm.desc=Créer une ferme automatisée des 16 couleurs 
 botania.challenge.recordFarm=Ferme de disques
 botania.challenge.reedFarm=Ferme de canne à sucre
 botania.challenge.cobbleGen=Générateur de pierre
-botania.challenge.pureDaisy=Pâquerette pure auto
+botania.challenge.pureDaisy=Marguerite pure auto
 botania.challenge.battery=Batterie de mana
 
 # BLOCK NAMES
@@ -852,7 +852,7 @@ tile.botania:flower..name=Fleur Botania
 # The two dots are not a typo
 tile.botania:flower..reference=Si vous voyez ceci, celà signifie que quelque chose s'est passé mal, vous devriez me le rapporter
 
-tile.botania:flower.puredaisy.name=Pâquerette pure
+tile.botania:flower.puredaisy.name=Marguerite pure
 tile.botania:flower.puredaisy.reference=De quelle couleur voulez-vous être ?
 tile.botania:flower.manastar.name=Étoile de mana
 tile.botania:flower.manastar.reference=Souhaitez sur une étoile
@@ -1316,10 +1316,13 @@ botania.page.apothecary2=Ce bloc, quand il est placé et qu'on le remplit d'eau 
 botania.page.apothecary3=Pas mal de plantes peuvent être créées de cette manière. Voir les rubriques &4flore fonctionnelle&0 et &4flore génératrice&0 du lexique.<br>Maj-cliquer droit l'&1apotiquaire de pétales&0 avec la main vide enlève le dernier objet ajouté.
 botania.page.apothecary4=À la place de l'&1eau&0, on peut mettre de la &1lave&0 dans ce bloc, si c'est le cas, il servira comme brasier et incinérateur, détruisant n'importe quel objet en contact avec.<br>Par ailleurs, y jeter des &1lianes&0 lui donnera un aspect plus luxuriant.
 botania.page.apothecary7=Les &1comparateurs&0 peuvent détecter si le bloc a de l'eau ou pas.<br>Puisque l'&1apotiquaire de pétals&0 peut être rempli en jetant un &1seau d'eau&0, et qu'un &1distributeur&0 peut remplir des seaux, créer un système pour remplir automatiquement l'apotiquaire ne devrait pas être trop difficile.
+botania.page.apothecary6=Une petite astuce pour ceux qui veulent gagner en efficacité sur tous les blocs : jusqu'à vingt minutes après avoir créé une fleur, cliquer droit sur l'apotiquaire avec la main vide placera de nouveau les mêmes ingrédients depuis votre inventaire pour créer encore et encore. Ça marche seulement si l'apotiquaire et reremplit d'eau.
+botania.page.apothecary5=Fabriquer l'&1apotiquaire de pétals&0.
 
-#TODO
 # -- PURE DAISY
-botania.entry.pureDaisy=Pâquerette pure
+botania.entry.pureDaisy=Marguerite pure
+botania.tagline.pureDaisy=Créatrice de vifbois et viveroche, entre autres
+#TODO
 
 # -- WAND OF THE FOREST
 botania.entry.wand=Bâton de la forêt
